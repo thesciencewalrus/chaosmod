@@ -1,9 +1,26 @@
 # Minecraft Chaos Mod - Open World 
-A completely vanilla mod that adds chaotic effects to your game every 25 seconds!
 
-Please [go here](https://www.google.com/) to download the latest version for 1.19.3!
+A completely vanilla mod that adds chaotic effects to your game every 25 seconds! Works in Minecraft 1.19.3 only.
 
-Join [the discord](https://discord.gg/MPwbeARYFT) for news, updates, and more!
+## Installation Instructions
+
+#### Default World
+
+Simply [download the world file from here](https://google.com/), extract the zip file into your .minecraft/saves folder, and play! The mod works on both singleplayer and multiplayer servers, so you can use this world for a server as well!
+
+#### Add to Pre-existing World
+
+In order to add this to a pre-existing world, you must download the mod WorldEdit and import the schematic. Then, go into the bedrock box at the top of the schematic to start the mod.
+
+Instructions on how to import schematics using WorldEdit [can be found in their documentation](https://worldedit.enginehub.org/en/latest/)
+
+Please use [their discord](https://discord.gg/enginehub) for any support you may need importing schematics.
+
+[The schematic file can be downloaded here.](https://google.com/)
+
+## Support/Discord
+
+Join [our discord](https://discord.gg/MPwbeARYFT) for support, as well as news, updates, and more!
 
 ## Suggesting Effects
 To suggest an effect, please create a feature request under issues!
