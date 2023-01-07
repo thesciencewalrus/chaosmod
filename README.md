@@ -4,6 +4,8 @@ A completely vanilla mod that adds chaotic effects to your game every 25 seconds
 
 This "mod" isn't a true mod, but consists of a command block schematic, so it works on literally any Java MC platform (Vanilla, Forge, Fabric, Bukkit, Spigot, Paper, etc.).
 
+Based on [pongo's GTAV chaos mod](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
+
 ## Installation Instructions
 
 #### Default World
