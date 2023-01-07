@@ -2,6 +2,8 @@
 
 A completely vanilla mod that adds chaotic effects to your game every 25 seconds! Works in Minecraft 1.19.3 only.
 
+This "mod" isn't a true mod, but consists of a command block schematic, so it works on literally any Java MC platform (Vanilla, Forge, Fabric, Bukkit, Spigot, Paper, etc.).
+
 ## Installation Instructions
 
 #### Default World
