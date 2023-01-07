@@ -36,5 +36,11 @@ If you've found a bug, issue, or broken gameplay mechanic, please create a bug r
 
 To best assist you, please fill out the **entire template** when reporting bugs!
 
+## Advantages Over Other Chaos Mods
+
+Of course, there are no shortage of true [Minecraft chaos mods](https://www.curseforge.com/minecraft/mc-mods/entropy). Mine is a personal project and I'm not trying to directly compete. If you're comfortable running Fabric, Im_JC52's mod will likely work best.
+
+However, if you're looking to add the mod to another platform (such as vanilla, Forge, or a Bukkit-based server), or simply don't want to make everyone download the Fabric mod, my chaos mod is able to do so since it isn't a true mod, and therefore hooks directly into vanilla Minecraft mechanics.
+
 ### Donate
 If you'd like to support me, [you can do so by donating at this link](https://www.buymeacoffee.com/thesciwalrus). I'm currently a medical student surviving off of student loans, so donations are never expected but always greatly appreciated!
