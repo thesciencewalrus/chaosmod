@@ -14,7 +14,7 @@ Simply [download the world file from here](https://google.com/), extract the zip
 
 #### Add to Pre-existing World
 
-In order to add this to a pre-existing world, you must download the mod WorldEdit and import the schematic. Then, go into the bedrock box at the top of the schematic to start the mod.
+In order to add this to a pre-existing world, you must download the WorldEdit mod or plugin and import the schematic. Then, go into the bedrock box at the top of the schematic to start the mod.
 
 Instructions on how to import schematics using WorldEdit [can be found in their documentation](https://worldedit.enginehub.org/en/latest/)
 
