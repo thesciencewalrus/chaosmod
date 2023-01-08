@@ -10,7 +10,7 @@ Based on [pongo's GTAV chaos mod](https://www.gta5-mods.com/scripts/chaos-mod-v-
 
 #### Default World
 
-Simply [download the world file from here](https://google.com/), extract the zip file into your .minecraft/saves folder, and play! The mod works on both singleplayer and multiplayer servers, so you can use this world for a server as well!
+Simply [download the world file from here](https://www.planetminecraft.com/project/minecraft-chaos-mod-vanilla-command-block-creation/), extract the world file into your .minecraft/saves folder, and play! The mod works on both singleplayer and multiplayer servers, so you can use this world for a server as well!
 
 #### Add to Pre-existing World
 
@@ -20,7 +20,7 @@ Instructions on how to import schematics using WorldEdit [can be found in their 
 
 Please use [their discord](https://discord.gg/enginehub) for any support you may need importing schematics.
 
-[The schematic file can be downloaded here.](https://google.com/)
+[The schematic file can be downloaded by clicking here.](https://www.mediafire.com/file/afuie1wt0mo2sba/chaosmod1.0.0.schem/file)
 
 ## Support/Discord
 
